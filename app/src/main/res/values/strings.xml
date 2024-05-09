@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Project-ll</string>
+    <string name="title_activity_rv">RvActivity</string>
+    <string name="upload">Upload</string>
+</resources>
